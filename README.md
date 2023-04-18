@@ -19,3 +19,17 @@ I have two questions:
 
 With a cleaner implementation, will the players finally be able to experience the gameplay I've designed for them?
 Where will new issues arise and are they bugs or gameplay design opportunities?
+
+# Playtesting results and final touch ups:
+
+During my playtesting, I discovered that players were content with the feel of the car.
+They found that the game was well constructed and all that was missing was "somethign to do"
+This would probably be my signal to try and finalize the demo track.
+
+I will add barriers to the next iteration, removing the need to add colliders ot the trees and keeping the focus of the game on racing. 
+I will add sounds so the player understands how fast they are going. I will add a speedometer for additional help. 
+Lastly, I will improve the lighting and settign of the game. I want the game to flow and feel relaxing. 
+
+Here's the Itch IO page for the final Presentation on April 18th.
+https://axelhenir.itch.io/master-the-mountain
+
